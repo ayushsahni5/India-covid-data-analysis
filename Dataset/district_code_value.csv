@@ -1,0 +1,766 @@
+B
+AN_Nicobars
+AN_North and Middle Andaman
+AN_South Andaman
+AP_Foreign Evacuees
+AP_Anantapur
+AP_Chittoor
+AP_East Godavari
+AP_Guntur
+AP_Krishna
+AP_Kurnool
+AP_Other State
+AP_Prakasam
+AP_S.P.S. Nellore
+AP_Srikakulam
+AP_Visakhapatnam
+AP_Vizianagaram
+AP_West Godavari
+AP_Y.S.R. Kadapa
+AR_Anjaw
+AR_Changlang
+AR_East Kameng
+AR_East Siang
+AR_Kamle
+AR_Kra Daadi
+AR_Kurung Kumey
+AR_Lepa Rada
+AR_Lohit
+AR_Longding
+AR_Lower Dibang Valley
+AR_Lower Siang
+AR_Lower Subansiri
+AR_Namsai
+AR_Pakke Kessang
+AR_Papum Pare
+AR_Shi Yomi
+AR_Siang
+AR_Tawang
+AR_Tirap
+AR_Upper Dibang Valley
+AR_Upper Siang
+AR_Upper Subansiri
+AR_West Kameng
+AR_West Siang
+AS_Airport Quarantine
+AS_Baksa
+AS_Barpeta
+AS_Biswanath
+AS_Bongaigaon
+AS_Cachar
+AS_Charaideo
+AS_Chirang
+AS_Darrang
+AS_Dhemaji
+AS_Dhubri
+AS_Dibrugarh
+AS_Dima Hasao
+AS_Goalpara
+AS_Golaghat
+AS_Hailakandi
+AS_Hojai
+AS_Jorhat
+AS_Kamrup
+AS_Kamrup Metropolitan
+AS_Karbi Anglong
+AS_Karimganj
+AS_Kokrajhar
+AS_Lakhimpur
+AS_Majuli
+AS_Morigaon
+AS_Nagaon
+AS_Nalbari
+AS_Other State
+AS_Sivasagar
+AS_Sonitpur
+AS_South Salmara Mankachar
+AS_Tinsukia
+AS_Udalguri
+AS_West Karbi Anglong
+BR_Araria
+BR_Arwal
+BR_Aurangabad
+BR_Banka
+BR_Begusarai
+BR_Bhagalpur
+BR_Bhojpur
+BR_Buxar
+BR_Darbhanga
+BR_East Champaran
+BR_Gaya
+BR_Gopalganj
+BR_Jamui
+BR_Jehanabad
+BR_Kaimur
+BR_Katihar
+BR_Khagaria
+BR_Kishanganj
+BR_Lakhisarai
+BR_Madhepura
+BR_Madhubani
+BR_Munger
+BR_Muzaffarpur
+BR_Nalanda
+BR_Nawada
+BR_Patna
+BR_Purnia
+BR_Rohtas
+BR_Saharsa
+BR_Samastipur
+BR_Saran
+BR_Sheikhpura
+BR_Sheohar
+BR_Sitamarhi
+BR_Siwan
+BR_Supaul
+BR_Vaishali
+BR_West Champaran
+CH_Chandigarh
+CT_Other State
+CT_Balod
+CT_Baloda Bazar
+CT_Balrampur
+CT_Bametara
+CT_Bastar
+CT_Bijapur
+CT_Bilaspur
+CT_Dakshin Bastar Dantewada
+CT_Dhamtari
+CT_Durg
+CT_Gariaband
+CT_Janjgir Champa
+CT_Jashpur
+CT_Kabeerdham
+CT_Kondagaon
+CT_Korba
+CT_Koriya
+CT_Mahasamund
+CT_Mungeli
+CT_Narayanpur
+CT_Raigarh
+CT_Raipur
+CT_Rajnandgaon
+CT_Sukma
+CT_Surajpur
+CT_Surguja
+CT_Uttar Bastar Kanker
+CT_Gaurela Pendra Marwahi
+DL_Central Delhi
+DL_East Delhi
+DL_New Delhi
+DL_North Delhi
+DL_North East Delhi
+DL_North West Delhi
+DL_Shahdara
+DL_South Delhi
+DL_South East Delhi
+DL_South West Delhi
+DL_West Delhi
+DN_Other State
+DN_Dadra and Nagar Haveli
+DN_Daman
+DN_Diu
+GA_Other State
+GA_North Goa
+GA_South Goa
+GJ_Other State
+GJ_Ahmedabad
+GJ_Amreli
+GJ_Anand
+GJ_Aravalli
+GJ_Banaskantha
+GJ_Bharuch
+GJ_Bhavnagar
+GJ_Botad
+GJ_Chhota Udaipur
+GJ_Dahod
+GJ_Dang
+GJ_Devbhumi Dwarka
+GJ_Gandhinagar
+GJ_Gir Somnath
+GJ_Jamnagar
+GJ_Junagadh
+GJ_Kheda
+GJ_Kutch
+GJ_Mahisagar
+GJ_Mehsana
+GJ_Morbi
+GJ_Narmada
+GJ_Navsari
+GJ_Panchmahal
+GJ_Patan
+GJ_Porbandar
+GJ_Rajkot
+GJ_Sabarkantha
+GJ_Surat
+GJ_Surendranagar
+GJ_Tapi
+GJ_Vadodara
+GJ_Valsad
+HP_Bilaspur
+HP_Chamba
+HP_Hamirpur
+HP_Kangra
+HP_Kinnaur
+HP_Kullu
+HP_Lahaul and Spiti
+HP_Mandi
+HP_Shimla
+HP_Sirmaur
+HP_Solan
+HP_Una
+HR_Foreign Evacuees
+HR_Ambala
+HR_Bhiwani
+HR_Charkhi Dadri
+HR_Faridabad
+HR_Fatehabad
+HR_Gurugram
+HR_Hisar
+HR_Italians
+HR_Jhajjar
+HR_Jind
+HR_Kaithal
+HR_Karnal
+HR_Kurukshetra
+HR_Mahendragarh
+HR_Nuh
+HR_Palwal
+HR_Panchkula
+HR_Panipat
+HR_Rewari
+HR_Rohtak
+HR_Sirsa
+HR_Sonipat
+HR_Yamunanagar
+JH_Bokaro
+JH_Chatra
+JH_Deoghar
+JH_Dhanbad
+JH_Dumka
+JH_East Singhbhum
+JH_Garhwa
+JH_Giridih
+JH_Godda
+JH_Gumla
+JH_Hazaribagh
+JH_Jamtara
+JH_Khunti
+JH_Koderma
+JH_Latehar
+JH_Lohardaga
+JH_Pakur
+JH_Palamu
+JH_Ramgarh
+JH_Ranchi
+JH_Sahibganj
+JH_Saraikela-Kharsawan
+JH_Simdega
+JH_West Singhbhum
+JK_Anantnag
+JK_Bandipora
+JK_Baramulla
+JK_Budgam
+JK_Doda
+JK_Ganderbal
+JK_Jammu
+JK_Kathua
+JK_Kishtwar
+JK_Kulgam
+JK_Kupwara
+JK_Mirpur
+JK_Muzaffarabad
+JK_Pulwama
+JK_Punch
+JK_Rajouri
+JK_Ramban
+JK_Reasi
+JK_Samba
+JK_Shopiyan
+JK_Srinagar
+JK_Udhampur
+KA_Bagalkote
+KA_Ballari
+KA_Belagavi
+KA_Bengaluru Rural
+KA_Bengaluru Urban
+KA_Bidar
+KA_Chamarajanagara
+KA_Chikkaballapura
+KA_Chikkamagaluru
+KA_Chitradurga
+KA_Dakshina Kannada
+KA_Davanagere
+KA_Dharwad
+KA_Gadag
+KA_Hassan
+KA_Haveri
+KA_Kalaburagi
+KA_Kodagu
+KA_Kolar
+KA_Koppal
+KA_Mandya
+KA_Mysuru
+KA_Other State
+KA_Raichur
+KA_Ramanagara
+KA_Shivamogga
+KA_Tumakuru
+KA_Udupi
+KA_Uttara Kannada
+KA_Vijayapura
+KA_Yadgir
+KL_Other State
+KL_Alappuzha
+KL_Ernakulam
+KL_Idukki
+KL_Kannur
+KL_Kasaragod
+KL_Kollam
+KL_Kottayam
+KL_Kozhikode
+KL_Malappuram
+KL_Palakkad
+KL_Pathanamthitta
+KL_Thiruvananthapuram
+KL_Thrissur
+KL_Wayanad
+LA_Kargil
+LA_Leh
+LD_Lakshadweep
+MH_Ahmednagar
+MH_Akola
+MH_Amravati
+MH_Aurangabad
+MH_Beed
+MH_Bhandara
+MH_Buldhana
+MH_Chandrapur
+MH_Dhule
+MH_Gadchiroli
+MH_Gondia
+MH_Hingoli
+MH_Jalgaon
+MH_Jalna
+MH_Kolhapur
+MH_Latur
+MH_Mumbai
+MH_Mumbai Suburban
+MH_Nagpur
+MH_Nanded
+MH_Nandurbar
+MH_Nashik
+MH_Osmanabad
+MH_Other State
+MH_Palghar
+MH_Parbhani
+MH_Pune
+MH_Raigad
+MH_Ratnagiri
+MH_Sangli
+MH_Satara
+MH_Sindhudurg
+MH_Solapur
+MH_Thane
+MH_Wardha
+MH_Washim
+MH_Yavatmal
+ML_East Garo Hills
+ML_East Jaintia Hills
+ML_East Khasi Hills
+ML_North Garo Hills
+ML_Ribhoi
+ML_South Garo Hills
+ML_South West Garo Hills
+ML_South West Khasi Hills
+ML_West Garo Hills
+ML_West Jaintia Hills
+ML_West Khasi Hills
+MN_CAPF Personnel
+MN_Bishnupur
+MN_Chandel
+MN_Churachandpur
+MN_Imphal East
+MN_Imphal West
+MN_Jiribam
+MN_Kakching
+MN_Kamjong
+MN_Kangpokpi
+MN_Noney
+MN_Pherzawl
+MN_Senapati
+MN_Tamenglong
+MN_Tengnoupal
+MN_Thoubal
+MN_Ukhrul
+MP_Agar Malwa
+MP_Alirajpur
+MP_Anuppur
+MP_Ashoknagar
+MP_Balaghat
+MP_Barwani
+MP_Betul
+MP_Bhind
+MP_Bhopal
+MP_Burhanpur
+MP_Chhatarpur
+MP_Chhindwara
+MP_Damoh
+MP_Datia
+MP_Dewas
+MP_Dhar
+MP_Dindori
+MP_Guna
+MP_Gwalior
+MP_Harda
+MP_Hoshangabad
+MP_Indore
+MP_Jabalpur
+MP_Jhabua
+MP_Katni
+MP_Khandwa
+MP_Khargone
+MP_Mandla
+MP_Mandsaur
+MP_Morena
+MP_Narsinghpur
+MP_Neemuch
+MP_Niwari
+MP_Other Region
+MP_Panna
+MP_Raisen
+MP_Rajgarh
+MP_Ratlam
+MP_Rewa
+MP_Sagar
+MP_Satna
+MP_Sehore
+MP_Seoni
+MP_Shahdol
+MP_Shajapur
+MP_Sheopur
+MP_Shivpuri
+MP_Sidhi
+MP_Singrauli
+MP_Tikamgarh
+MP_Ujjain
+MP_Umaria
+MP_Vidisha
+MZ_Aizawl
+MZ_Champhai
+MZ_Hnahthial
+MZ_Khawzawl
+MZ_Kolasib
+MZ_Lawngtlai
+MZ_Lunglei
+MZ_Mamit
+MZ_Saiha
+MZ_Saitual
+MZ_Serchhip
+NL_Others
+NL_Dimapur
+NL_Kiphire
+NL_Kohima
+NL_Longleng
+NL_Mokokchung
+NL_Mon
+NL_Peren
+NL_Phek
+NL_Tuensang
+NL_Wokha
+NL_Zunheboto
+OR_State Pool
+OR_Others
+OR_Angul
+OR_Balangir
+OR_Balasore
+OR_Bargarh
+OR_Bhadrak
+OR_Boudh
+OR_Cuttack
+OR_Deogarh
+OR_Dhenkanal
+OR_Gajapati
+OR_Ganjam
+OR_Jagatsinghpur
+OR_Jajpur
+OR_Jharsuguda
+OR_Kalahandi
+OR_Kandhamal
+OR_Kendrapara
+OR_Kendujhar
+OR_Khordha
+OR_Koraput
+OR_Malkangiri
+OR_Mayurbhanj
+OR_Nabarangapur
+OR_Nayagarh
+OR_Nuapada
+OR_Puri
+OR_Rayagada
+OR_Sambalpur
+OR_Subarnapur
+OR_Sundargarh
+PB_Amritsar
+PB_Barnala
+PB_Bathinda
+PB_Faridkot
+PB_Fatehgarh Sahib
+PB_Fazilka
+PB_Ferozepur
+PB_Gurdaspur
+PB_Hoshiarpur
+PB_Jalandhar
+PB_Kapurthala
+PB_Ludhiana
+PB_Mansa
+PB_Moga
+PB_Pathankot
+PB_Patiala
+PB_Rupnagar
+PB_S.A.S. Nagar
+PB_Sangrur
+PB_Shahid Bhagat Singh Nagar
+PB_Sri Muktsar Sahib
+PB_Tarn Taran
+PY_Karaikal
+PY_Mahe
+PY_Puducherry
+PY_Yanam
+RJ_Ajmer
+RJ_Alwar
+RJ_Banswara
+RJ_Baran
+RJ_Barmer
+RJ_Bharatpur
+RJ_Bhilwara
+RJ_Bikaner
+RJ_BSF Camp
+RJ_Bundi
+RJ_Chittorgarh
+RJ_Churu
+RJ_Dausa
+RJ_Dholpur
+RJ_Dungarpur
+RJ_Evacuees
+RJ_Ganganagar
+RJ_Hanumangarh
+RJ_Italians
+RJ_Jaipur
+RJ_Jaisalmer
+RJ_Jalore
+RJ_Jhalawar
+RJ_Jhunjhunu
+RJ_Jodhpur
+RJ_Karauli
+RJ_Kota
+RJ_Nagaur
+RJ_Other State
+RJ_Pali
+RJ_Pratapgarh
+RJ_Rajsamand
+RJ_Sawai Madhopur
+RJ_Sikar
+RJ_Sirohi
+RJ_Tonk
+RJ_Udaipur
+SK_East Sikkim
+SK_North Sikkim
+SK_South Sikkim
+SK_West Sikkim
+TG_Foreign Evacuees
+TG_Other State
+TG_Adilabad
+TG_Bhadradri Kothagudem
+TG_Hyderabad
+TG_Jagtial
+TG_Jangaon
+TG_Jayashankar Bhupalapally
+TG_Jogulamba Gadwal
+TG_Kamareddy
+TG_Karimnagar
+TG_Khammam
+TG_Komaram Bheem
+TG_Mahabubabad
+TG_Mahabubnagar
+TG_Mancherial
+TG_Medak
+TG_Medchal Malkajgiri
+TG_Mulugu
+TG_Nagarkurnool
+TG_Nalgonda
+TG_Narayanpet
+TG_Nirmal
+TG_Nizamabad
+TG_Peddapalli
+TG_Rajanna Sircilla
+TG_Ranga Reddy
+TG_Sangareddy
+TG_Siddipet
+TG_Suryapet
+TG_Vikarabad
+TG_Wanaparthy
+TG_Warangal Rural
+TG_Warangal Urban
+TG_Yadadri Bhuvanagiri
+TN_Railway Quarantine
+TN_Airport Quarantine
+TN_Other State
+TN_Ariyalur
+TN_Chengalpattu
+TN_Chennai
+TN_Coimbatore
+TN_Cuddalore
+TN_Dharmapuri
+TN_Dindigul
+TN_Erode
+TN_Kallakurichi
+TN_Kancheepuram
+TN_Kanyakumari
+TN_Karur
+TN_Krishnagiri
+TN_Madurai
+TN_Nagapattinam
+TN_Namakkal
+TN_Nilgiris
+TN_Perambalur
+TN_Pudukkottai
+TN_Ramanathapuram
+TN_Ranipet
+TN_Salem
+TN_Sivaganga
+TN_Tenkasi
+TN_Thanjavur
+TN_Theni
+TN_Thiruvallur
+TN_Thiruvarur
+TN_Thoothukkudi
+TN_Tiruchirappalli
+TN_Tirunelveli
+TN_Tirupathur
+TN_Tiruppur
+TN_Tiruvannamalai
+TN_Vellore
+TN_Viluppuram
+TN_Virudhunagar
+TN_Mayiladuthurai
+TR_Dhalai
+TR_Gomati
+TR_Khowai
+TR_North Tripura
+TR_Sipahijala
+TR_South Tripura
+TR_Unokoti
+TR_West Tripura
+UP_Agra
+UP_Aligarh
+UP_Ambedkar Nagar
+UP_Amethi
+UP_Amroha
+UP_Auraiya
+UP_Ayodhya
+UP_Azamgarh
+UP_Baghpat
+UP_Bahraich
+UP_Ballia
+UP_Balrampur
+UP_Banda
+UP_Barabanki
+UP_Bareilly
+UP_Basti
+UP_Bhadohi
+UP_Bijnor
+UP_Budaun
+UP_Bulandshahr
+UP_Chandauli
+UP_Chitrakoot
+UP_Deoria
+UP_Etah
+UP_Etawah
+UP_Farrukhabad
+UP_Fatehpur
+UP_Firozabad
+UP_Gautam Buddha Nagar
+UP_Ghaziabad
+UP_Ghazipur
+UP_Gonda
+UP_Gorakhpur
+UP_Hamirpur
+UP_Hapur
+UP_Hardoi
+UP_Hathras
+UP_Jalaun
+UP_Jaunpur
+UP_Jhansi
+UP_Kannauj
+UP_Kanpur Dehat
+UP_Kanpur Nagar
+UP_Kasganj
+UP_Kaushambi
+UP_Kushinagar
+UP_Lakhimpur Kheri
+UP_Lalitpur
+UP_Lucknow
+UP_Maharajganj
+UP_Mahoba
+UP_Mainpuri
+UP_Mathura
+UP_Mau
+UP_Meerut
+UP_Mirzapur
+UP_Moradabad
+UP_Muzaffarnagar
+UP_Pilibhit
+UP_Pratapgarh
+UP_Prayagraj
+UP_Rae Bareli
+UP_Rampur
+UP_Saharanpur
+UP_Sambhal
+UP_Sant Kabir Nagar
+UP_Shahjahanpur
+UP_Shamli
+UP_Shrawasti
+UP_Siddharthnagar
+UP_Sitapur
+UP_Sonbhadra
+UP_Sultanpur
+UP_Unnao
+UP_Varanasi
+UT_Almora
+UT_Bageshwar
+UT_Chamoli
+UT_Champawat
+UT_Dehradun
+UT_Haridwar
+UT_Nainital
+UT_Pauri Garhwal
+UT_Pithoragarh
+UT_Rudraprayag
+UT_Tehri Garhwal
+UT_Udham Singh Nagar
+UT_Uttarkashi
+WB_Alipurduar
+WB_Bankura
+WB_Birbhum
+WB_Cooch Behar
+WB_Dakshin Dinajpur
+WB_Darjeeling
+WB_Hooghly
+WB_Howrah
+WB_Jalpaiguri
+WB_Jhargram
+WB_Kalimpong
+WB_Kolkata
+WB_Malda
+WB_Murshidabad
+WB_Nadia
+WB_North 24 Parganas
+WB_Other State
+WB_Paschim Bardhaman
+WB_Paschim Medinipur
+WB_Purba Bardhaman
+WB_Purba Medinipur
+WB_Purulia
+WB_South 24 Parganas
+WB_Uttar Dinajpur
